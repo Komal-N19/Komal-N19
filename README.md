@@ -1,5 +1,5 @@
 👋 Hi, I’m **Komal Nangia**
-- 👀 I’m interested in always expanding my knowledge and brushing up my skills. ALso you can find me sipping coffee at any random Bookstore ;)
+- 👀 I’m interested in always expanding my knowledge and brushing up my skills
 - 🌱 I’m currently learning web development and cloud computing
 - 💞️ I’m looking to collaborate on open source programs
 - Lets connect and have a chat!
