@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and cloud computing
 - 💞️ I’m looking to collaborate on open source programs
 - Lets connect and have a chat!
- <img> ![image](https://github.com/Komal-N19/Komal-N19/assets/133215753/565f50d5-8778-48b5-b2ef-45fec22851ec)
+<img> ![image](https://github.com/Komal-N19/Komal-N19/assets/133215753/565f50d5-8778-48b5-b2ef-45fec22851ec)
 LinkedIn:https://www.linkedin.com/in/komal-nangia-a32abb268
 - I'm profiecient in some languages(C,C++, HTML , Java Script) and getting a grip on a few (CSS, Python)
 
